@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/edo-penjual-jamu.jpg");
+  background-image: url("images/edo-penjual-jamu.jpg?rand=0832");
   background-position: 50% 50%;
 }
 
@@ -150,7 +150,7 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    background-size: auto 140%;
+    background-position: 35.55% 50%;
   }
 
   .u-section-1 .u-sheet-1 {
